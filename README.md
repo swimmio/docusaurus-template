@@ -2,6 +2,8 @@
 
 Welcome! This repository contains all of the files that you'll need in order to export your Swimm documentation to [Docusaurus](https://docusaurus.io/), which makes it easy for anyone to read and search your documentation using just a web browser.
 
+[Here's a really cool example](https://relaxed-franklin-0b4004.netlify.app/) pulled from Swimm documentation for the game AncientBeast.
+
 We're breaking this tutorial down into three parts:
 
  1. Exporting your Swimm docs to Markdown using the command line,
