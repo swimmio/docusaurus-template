@@ -22,7 +22,7 @@ This should take you approximately five minutes, from start to finish. In order 
 
  ```
  $~ swimm help export
-Usage: swimmstage export [options] [swimm_id]
+Usage: swimm export [options] [swimm_id]
 
 Save Swimm files as MDs
 
