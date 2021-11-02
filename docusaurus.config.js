@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Swimm',
-  tagline: 'Dinosaurs are cool',
+  title: 'Swimm Documentation',
+  tagline: 'Built With Docusaurus',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Cyberdyne', // Usually your GitHub org/user name.
+  projectName: 'skynet', // Usually your repo name.
   themeConfig: {
     navbar: {
       logo: {
